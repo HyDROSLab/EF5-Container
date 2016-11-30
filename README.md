@@ -1,4 +1,4 @@
-# EF5-Containers
-Containerized versions of EF5 for research and operational applications.
+# EF5-Container
+Containerized version of EF5 for research applications.
 
-A stand-alone EF5 container.
+This container includes a stand-alone EF5 built in Ubuntu.
