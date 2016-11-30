@@ -2,6 +2,10 @@
 
 FROM ubuntu 
 
+LABEL name="Stand-Alone EF5"
+LABEL description="This container runs an image of the Ensemble Framework For Flash Flood Forecasting (EF5)."
+LABEL version="0.1"
+
 MAINTAINER Humberto Vergara <humber@ou.edu>
 
 RUN apt-get update
